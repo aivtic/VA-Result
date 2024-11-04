@@ -19,7 +19,7 @@ This repository is intended for internal use by authorized personnel involved in
 
 | **Batch** | **Phase** | **Description**                          | **Approved Date** | **Result Link**                                                                                       |
 |-----------|-----------|------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------|
-| B24       | Phase 1   | Initial training in foundational skills  | April 04, 2024    | [View Results](VA Phase 1 Approved Result.csv)  |
+| B24       | Phase 1   | Initial training in foundational skills  | April 04, 2024    | [View Results](Result1.csv)  |
 | B24       | Phase 2   | Advanced training and specialization     | TBD               | [View Results](#)                                                                                     |
 
 ---
