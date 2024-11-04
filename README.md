@@ -1,6 +1,3 @@
-Here's the corrected table layout for your repository with the links and formatting as requested:
-
----
 
 # Virtual Assistance Result
 
@@ -20,10 +17,10 @@ This repository is intended for internal use by authorized personnel involved in
 
 ### Batch and Phase Information
 
-| **Batch** | **Phase** | **Description**                          | **Approved Date** | **Result Link**                           |
-|-----------|-----------|------------------------------------------|--------------------|-------------------------------------------|
-| B24       | Phase 1   | Initial training in foundational skills  | April 04, 2024    | [View Results]([https://your-link-to-results.com/B24/Phase1](https://github.com/aivtic/VA-Result/blob/main/VA%20Phase%201%20Approved%20Result.csv)) |
-| B24       | Phase 2   | Advanced training and specialization     |      | [View Results] |
+| **Batch** | **Phase** | **Description**                          | **Approved Date** | **Result Link**                                                                                       |
+|-----------|-----------|------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------|
+| B24       | Phase 1   | Initial training in foundational skills  | April 04, 2024    | [View Results](https://github.com/aivtic/VA-Result/blob/main/VA%20Phase%201%20Approved%20Result.csv)  |
+| B24       | Phase 2   | Advanced training and specialization     | TBD               | [View Results](#)                                                                                     |
 
 ---
 
