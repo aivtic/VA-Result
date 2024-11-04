@@ -23,7 +23,7 @@ This repository is intended for internal use by authorized personnel involved in
 | **Batch** | **Phase** | **Description**                          | **Approved Date** | **Result Link**                           |
 |-----------|-----------|------------------------------------------|--------------------|-------------------------------------------|
 | B24       | Phase 1   | Initial training in foundational skills  | April 04, 2024    | [View Results](https://your-link-to-results.com/B24/Phase1) |
-| B24       | Phase 2   | Advanced training and specialization     |      | [View Results](https://your-link-to-results.com/B24/Phase2) |
+| B24       | Phase 2   | Advanced training and specialization     |      | [View Results] |
 
 ---
 
