@@ -1,3 +1,7 @@
+Here's the corrected table layout for your repository with the links and formatting as requested:
+
+---
+
 # Virtual Assistance Result
 
 **A Repository for VA Batch B24 Result**
@@ -14,20 +18,12 @@ This repository contains the result records, analyses, and reports for Batch B24
 
 This repository is intended for internal use by authorized personnel involved in the VA program for Batch B24. Access is restricted to ensure data privacy and compliance with academy standards.
 
-To add a live link for viewing the results, you could structure the table like this:
+### Batch and Phase Information
+
+| **Batch** | **Phase** | **Description**                          | **Approved Date** | **Result Link**                           |
+|-----------|-----------|------------------------------------------|--------------------|-------------------------------------------|
+| B24       | Phase 1   | Initial training in foundational skills  | April 04, 2024    | [View Results](https://your-link-to-results.com/B24/Phase1) |
+| B24       | Phase 2   | Advanced training and specialization     |      | [View Results](https://your-link-to-results.com/B24/Phase2) |
 
 ---
-
-| **Batch** | **Phase** | **Description**                          | **Approved Date** |    | **Result Link**                          |
-|-----------|-----------|------------------------------------------|----------------| ------------------------------------------|
-| B24       | Phase 1   | Initial training in foundational skills  | April 16, 2024 | [View Results](https://your-link-to-results.com/B24/Phase1) |
-| B24       | Phase 2   | Advanced training and specialization     | May 17, 2024   | [View Results](https://your-link-to-results.com/B24/Phase2) |
-
-
----
-
-### Instructions
-Replace the `https://your-link-to-results.com/Batch/Phase` with the actual URLs where the results are hosted.
-
-This format allows easy access to each batch and phase’s results directly from the table.
 
